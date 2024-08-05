@@ -1,0 +1,23 @@
+{
+  "name": "com.gameframex.unity.ugui",
+  "displayName": "Game Frame X UGUI",
+  "category": "Game Framework X",
+  "description": "Game Frame X UGUI Component",
+  "version": "1.0.0",
+  "unity": "2017.1",
+  "keywords": [
+    "Game Framework X"
+  ],
+  "repository": {
+    "name": "com.gameframex.unity.ugui",
+    "url": "https://github.com/gameframex/com.gameframex.unity.ugui.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Blank",
+    "email": "alianblank@outlook.com",
+    "url": "https://alianblank.com/"
+  },
+  "dependencies": {
+  }
+}
