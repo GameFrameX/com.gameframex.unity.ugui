@@ -1,6 +1,5 @@
 {
     "name": "GameFrameX.UGUI.Editor",
-    "rootNamespace": "GameFrameX.UGUI.Editor",
     "references": [
         "GameFrameX.Editor",
         "GameFrameX.UGUI.Runtime",

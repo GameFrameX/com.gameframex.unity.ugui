@@ -2,7 +2,10 @@
     "name": "GameFrameX.UGUI.Runtime",
     "rootNamespace": "GameFrameX.UGUI.Runtime",
     "references": [
-        "GameFrameX.Runtime"
+        "GameFrameX.Runtime",
+        "GameFrameX.Asset.Runtime",
+        "YooAsset.Runtime",
+        "UniTask.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
