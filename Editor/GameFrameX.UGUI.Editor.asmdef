@@ -6,7 +6,9 @@
         "GameFrameX.UGUI.Runtime",
         "GameFrameX.Runtime"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
